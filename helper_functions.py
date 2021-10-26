@@ -12,3 +12,4 @@ def list_2_series(list_2_series, df):
     and adds it to the inputted dataframe as a new column'''
     return df['List'] = list_2_series
 
+#
